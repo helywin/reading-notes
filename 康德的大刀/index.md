@@ -29,3 +29,13 @@
   \text{知性的形式：纯粹概念——范畴}
   \end{cases}
   $$
+  
+  {% raw %}
+  $$
+  \text{心产生的形式}
+  \begin{cases}
+  \text{感性的形式：纯粹直观——空间、时间} \\
+  \text{知性的形式：纯粹概念——范畴}
+  \end{cases}
+  $$
+  {% endraw %}
